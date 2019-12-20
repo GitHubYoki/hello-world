@@ -11,3 +11,8 @@ Beta version
 
 
 This is 2nd branch for testing 
+
+commiting for mastrer server... it's from github 
+Have a nice day... 
+
+Jenkins
